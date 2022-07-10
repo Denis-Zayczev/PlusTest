@@ -202,7 +202,7 @@ header {
 }
 
 .help-text {
-  padding: 31px 57px 31px 220px;
+  padding: 44px 57px 44px 220px;
   background-color: #fff;
   background-image: url("../img/hero/quest.jpg");
   background-repeat: no-repeat;
@@ -505,6 +505,7 @@ header {
 
 .product {
   display: none;
+  margin-bottom: 30px;
 }
 
 .product-title {
@@ -893,6 +894,7 @@ header {
 .promotion {
   display: none;
   padding: 40px 0 40px 40px;
+  margin-bottom: 30px;
   max-width: 1500px;
   background-color: #fff;
   background-image: url("../img/promotion/map.png");
